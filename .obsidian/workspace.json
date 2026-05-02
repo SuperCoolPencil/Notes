@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "05e2eddf8a38586d",
+        "id": "536e012fec02fb09",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6b27db8cac15b3",
+            "id": "18db3d38b2761d05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Personal/Summer Projects.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Summer Projects"
+              "icon": "diff",
+              "title": "Diff: appearance.json  (Working Tree)"
             }
           }
         ]
@@ -205,9 +205,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d6b27db8cac15b3",
+  "active": "18db3d38b2761d05",
   "lastOpenFiles": [
-    "Untitled.md",
     "Personal/Summer Projects.md",
     "Personal",
     "Welcome.md"
