@@ -5,3 +5,4 @@ I will build this understanding using certain projects, by making them by hand a
 - [ ] markov chains and how they are used in compression algorithms
 - [ ] B+ Trees and a simple database
 - [ ] How are subtitles and video synced automatically?
+- [ ] Convert images to terminal renderable text!
