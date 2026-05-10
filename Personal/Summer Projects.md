@@ -5,5 +5,5 @@ I will build this understanding using certain projects, by making them by hand a
 - [ ] markov chains and how they are used in compression algorithms
 - [ ] B+ Trees and a simple database
 - [ ] How are subtitles and video synced automatically?
-- [ ] Convert images to terminal renderable text!
+- [ ] Convert images to terminal renderable text! (read [article](https://lucasjin.substack.com/p/videoascii-behind-the-scenes))
 - [ ] I want to benchmark how NUMA and cache locality actually affect code. I've heard it a lot but does it matter even in this day with all the compiler optimizations?
