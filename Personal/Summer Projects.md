@@ -6,3 +6,4 @@ I will build this understanding using certain projects, by making them by hand a
 - [ ] B+ Trees and a simple database
 - [ ] How are subtitles and video synced automatically?
 - [ ] Convert images to terminal renderable text!
+- [ ] I want to benchmark how NUMA and cache locality actually affect code. I've heard it a lot but does it matter even in this day with all the compiler optimizations?
